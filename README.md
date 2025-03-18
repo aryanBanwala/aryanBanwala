@@ -1,28 +1,20 @@
-# Hi there, I'm Aryan Banwala! 👋
+# Hi there 👋, I'm Aryan Banwala  
 
-🚀 **Building scalable backends & interactive UI in JUCE.**  
-💡 **Exploring AI, system design, and high-performance computing.**  
+🚀 **Backend Developer | JUCE & API Enthusiast**  
+
+A passionate developer working on **high-performance applications & social media platforms**.
 
 ---
 
-## 🔨 Current Projects
+## 🔨 Currently Working On:
 🎧 **[DJ Software (JUCE-based)](#)** - Pro-level UI for DJs.  
-📱 **[Bond Bridge](#)** - A next-gen social media platform.
+📱 **[Bond Bridge](#)** - A next-gen social media platform.  
 
 ---
 
-## 🎯 What I Do
-- **Backend Development** (**Node.js, Flask, MongoDB, Redis**)  
-- **GUI & UI/UX Design** with **JUCE (C++)**  
-- **Real-time Systems & API Development**  
-- **Optimizing performance for interactive applications**  
-
----
-
-## 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/aryan-banwala-97ba08271/) 
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)](https://github.com/HEMMEM97)
-[![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail)](mailto:banwalaaryan123@gmail.com)
+## 💬 Ask Me About:
+- **Backend Development (Node.js, Flask, MongoDB, Redis)**
+- **GUI Development (JUCE - C++)**
 
 ---
 
@@ -36,4 +28,25 @@
 
 ---
 
-⭐️ **Feel free to check out my work & let's connect!**
+## 📫 Connect with Me:
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/aryan-banwala-97ba08271/) 
+[![Instagram](https://img.shields.io/badge/-Instagram-purple?style=flat&logo=instagram)](#)
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)](https://github.com/HEMMEM97)
+[![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail)](mailto:banwalaaryan123@gmail.com)
+
+---
+
+## 🛠 Languages & Tools:
+<p align="left">
+  <img src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus" />
+  <img src="https://img.shields.io/badge/JUCE-0097A7?style=for-the-badge&logo=c" />
+  <img src="https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js" />
+  <img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-badge&logo=mongodb" />
+  <img src="https://img.shields.io/badge/Redis-red?style=for-the-badge&logo=redis" />
+</p>
+
+---
+
+⭐ **Check out my repositories & let's collaborate!**
