@@ -30,10 +30,9 @@ A passionate developer working on **high-performance applications & social media
 
 ## 📫 Connect with Me:
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/aryan-banwala-97ba08271/) 
-[![Instagram](https://img.shields.io/badge/-Instagram-purple?style=flat&logo=instagram)]([#](https://www.instagram.com/banwalaaryan/))
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)](https://github.com/HEMMEM97)
-[![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail)](mailto:banwalaaryan123@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/aryan-banwala-97ba08271/){:target="_blank"}  
+[![Instagram](https://img.shields.io/badge/-Instagram-purple?style=flat&logo=instagram)](https://www.instagram.com/banwalaaryan/){:target="_blank"}  
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)](https://github.com/HEMMEM97){:target="_blank"}  
 
 ---
 
